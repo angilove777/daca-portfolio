@@ -3,6 +3,8 @@ ROLL: Tooteandmete uurija (Product Data Explorer)
 
 Uuri products tabelit: mitu toodet on? Millised kategooriad? Milline on hinnavahemik? Kas on puuduvaid andmeid
 
+https://github.com/laura-johanson/urbanstyle-marketing-data/commit/a7baebb0cd97b02d736adce4ebacaac81554a3de
+
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 -- Mitu toodet on kokku? 362
