@@ -7,6 +7,7 @@ Millised kategooriad?---> jalanõud, laste_riided, aksessuaarid, naiste_riided, 
 Milline on hinnavahemik?--> 13.53 kuni 434.08 EUR
 Kas on puuduvaid andmeid--> eco-certified toodetel on NULL ehk puudub info
 
+Grupitöö UrbanStyle marketing data WK1:
 https://github.com/laura-johanson/urbanstyle-marketing-data/commit/a7baebb0cd97b02d736adce4ebacaac81554a3de
 
 "Mina uurisin products tabelit. Leidsin, et seal on 362 rida ja 9 veergu. Suurim toote hind oli 434.08 EUR. Märkasin, et eco_cerified toodetel puudun info (NULL).
