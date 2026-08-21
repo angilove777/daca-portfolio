@@ -1,5 +1,5 @@
 #Nädal 1: SQL Basics
-Meeskond: [ANgelina Sivkov]          Roll: C
+Meeskond: [Angelina Sivkov]          Roll: C
 ROLL: Tooteandmete uurija (Product Data Explorer)
 
 Uuri products tabelit: mitu toodet on?--> 362tk
