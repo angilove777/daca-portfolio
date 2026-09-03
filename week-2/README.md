@@ -1,5 +1,5 @@
 
-ALAÜLESANDE KAART A: Müügiandmete Puhastamine
+ALAÜLESANDE KAART A: Müügiandmete Puhastamine. Angelina Sivkov
 Element	Kirjeldus
 ROLL A Müügiandmete puhastaja (Sales Data Cleaner)
 ÜLESANNE	Leia duplikaadid, NULL väärtused ja vigased kuupäevad sales tabelis. Loo test koopia, puhasta ja dokumenteeri kõik muudatused.
