@@ -7,6 +7,15 @@ SISEND	Tabel: sales (Supabase)
 VÄLJUND	Puhastamisraport (duplikaadid leitud, NULL-id leitud, formaadivead, soovitused) + SQL skript
 SAMM-SAMMULT JUHEND:
 
+│  SUURIM ÜLLATUS:                                             
+│  Palju dublikaate                                       
+│                                                              
+│  SOOVITUS TOOMASELE:                                         
+│   Andmeid võib kasutada andmekvaliteedi kontrollimiseks ja vigade leidmiseks, kuid mitte veel täielikult usaldusväärsete äriotsuste tegemiseks sest parandused veel tegemata (nt. linnanime formaat)│
+│                                                              
+│  PUUDUVAD ANDMED:                                            
+ Customer_id puudub paljudel klientidel 
+
 Samm 1. Loo test koopia (ära tööta production tabelil!):
 CREATE TABLE sales_test AS SELECT * FROM sales;
 -- Taga unikaalne rea-tunnus dedup'i jaoks (lisab `id` AINULT siis, kui see puudub).
